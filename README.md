@@ -9,18 +9,9 @@
 <div align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-[ <img src="https://www.svgrepo.com/show/376360/dart.svg" 
+    <h1 align="center">Melhores Tecnologias </h1>
+ <img src="https://www.svgrepo.com/show/376360/dart.svg" 
    </div>
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: danjherstudio@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "mailto: dreeyhan">
-      <img width="25" src="discord.svg">
-    </a>
-    <a href = "[https://www.instagram.com/unknow/](https://www.instagram.com/_jeanzz/)">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
+
+
