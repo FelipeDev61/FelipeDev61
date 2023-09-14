@@ -1,4 +1,4 @@
-## Olá, FelipeDev61 aqui! <img src="nikewhite.png" width="30px"></h2>
+## Olá, FelipeDev61 aqui! 👨‍💻
 
 <div>
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=FelipeDev61&show_icons=true&rank_icon=github&hide=stars,contribs&include_all_commits=true&custom_title=Contribuições+de+FelipeDev61+♨&theme=transparent"/>
