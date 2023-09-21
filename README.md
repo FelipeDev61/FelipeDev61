@@ -1,4 +1,4 @@
-<img src = ".github/dotcode.png" width = "270px" align = "right">
+
 
 # Fala galera! Meu nome é Jean Felipe 👩‍💻
 
