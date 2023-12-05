@@ -18,16 +18,17 @@ Sou desenvolvedor Front-end e Mobile
 :man_student: Desenvolvimento de sistemas
 
 
-💙 Em um triângulo amoroso com **Flutter** e **Lua**
+💙 Em um triângulo amoroso com **Python** e **Flutter**
 
 
 🧰 Usando Git/GitHub & Visual Studio Code
 
-⚡ **Fun fact:** O maior fã do Yuji Itadori e Apaixonado pelo Fluminense! 
+⚡ **Fun fact:** Apaixonado pelo Fluminense!
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+width="40" height="40"/>&nbsp;
 </div>
 
 ---  
