@@ -1,6 +1,6 @@
 
 
-# Fala galera! Meu nome é Jean Felipe 👩‍💻
+# Hi guys! Meu nome é Jean Felipe 👩‍💻
 
 <div id="badges">  
   
@@ -13,7 +13,7 @@
   </a>
 </div>
 
-Sou desenvolvedor Front-end e Mobile 
+Automation Software engineer
 
 :man_student: Desenvolvimento de sistemas
 
