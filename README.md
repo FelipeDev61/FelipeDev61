@@ -13,7 +13,7 @@
   </a>
 </div>
 
-Automation Software engineer
+Web Developer FullStack
 
 :man_student: Web Developer
 
