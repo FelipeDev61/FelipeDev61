@@ -10,7 +10,6 @@
   
   <a href = "https://twitter.com/_jeanzzx">
     <img src="https://img.shields.io/badge/Twitter-d83b7d?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    <img src="https://wakatime.com/badge/user/018baf19-6e3e-4ee5-a282-d55105f2a479.svg"/>
   </a>
 </div>
 
@@ -34,6 +33,7 @@ width="40" height="40"/>&nbsp;
 width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
 width="40" height="40"/>&nbsp;
+<img src="https://wakatime.com/badge/user/018baf19-6e3e-4ee5-a282-d55105f2a479.svg"/>
 </div>
 
 ---  
